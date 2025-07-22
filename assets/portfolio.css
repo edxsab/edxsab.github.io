@@ -1,6 +1,6 @@
 *{
     background-color: #fff1e1;
-    color: #bfa5d6;
+    color: #b25bde;
     font-family: 'Pacific', regular;
     box-sizing: border-box !important;
     scroll-behavior: smooth;
@@ -325,7 +325,7 @@ li> a{
     background-color: #f2e1ff;
 }
 .formelement{
-    background-color: #f2e1f;
+    background-color: #f2e1ff;
     border: none;
     width:100%;
 }

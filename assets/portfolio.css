@@ -42,7 +42,7 @@ body{
     z-index: 3;
 }
 .nome{
-    width: 15%;
+    width: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ body{
 }
 .nomeImage{
     width: 100%;
-    max-width: 120px;
+    max-width: 100px;
     background-color: #f2e1ff;
 }
     

@@ -52,7 +52,8 @@ body{
 }
 .nomeImage{
     width: 100%;
-    max-width: 150px;
+    max-width: 200px;
+    padding: 5px;
     background-color: #f2e1ff;
 }
     
